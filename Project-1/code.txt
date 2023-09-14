@@ -8,13 +8,23 @@
 
 # Create a new text file
 % cd Project-1
-% touch Project-1-code.txt
+% touch code.txt
 
 # Edit the text file
-% vim Project-1-code.txt
+% vim code.txt
 
 # Push my changes to GitHub
 % cd ..
-% git add Project-1/Project-1-code.txt
+% git add Project-1/code.txt
 % git commit -m "Added Project-1 folder"
 % git push
+
+# Add a file linking to my personal page
+% cd Project-1
+% touch personal-page.txt
+% vim personal-page.txt
+% cd ..
+% git add .
+% git commit -m "Add personal-page.txt"
+% git push
+vim
