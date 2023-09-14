@@ -27,4 +27,3 @@
 % git add .
 % git commit -m "Add personal-page.txt"
 % git push
-vim
