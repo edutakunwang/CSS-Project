@@ -1,2 +1,3 @@
-# 23F-CSS-Project
-2023 Fall Computational Social Science Projects
+# CSS-Project
+Computational Social Science Projects
+Fall 2023 + Spring 2024
