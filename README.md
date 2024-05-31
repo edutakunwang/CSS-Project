@@ -1,7 +1,5 @@
 # Computational Social Science Projects
 
-Course Repository: https://github.com/dlab-berkeley/Computational-Social-Science-Training-Program
-
 Author: Takun Wang
 
 Projects: 
